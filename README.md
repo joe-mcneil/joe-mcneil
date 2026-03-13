@@ -34,8 +34,8 @@ Looking forward to learning soon in my Cloud Engineering Specialism:
 ### Projects
 | Project                                            | Description                                                                                                                                             | Tech Stack |
 |----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| [Snake](link goes here)                            | Solo Learning Project - An (appropriately named) game I made when teaching myself Python. It has a persistent high score and runs in the Turtle module. | Python     |
-| [Pong](link goes here)                             | Solo Learning Project - An exciting exploration into how many ways the ball can get stuck in an infinite loop, or unexpectedly move at hyperspeed.      | Python     |
+| [Snake](https://github.com/joe-mcneil/snake_game)                            | Solo Learning Project - An (appropriately named) game I made when teaching myself Python. It has a persistent high score and runs in the Turtle module. | Python     |
+| [Pong](https://github.com/joe-mcneil/pong)                             | Solo Learning Project - An exciting exploration into how many ways the ball can get stuck in an infinite loop, or unexpectedly move at hyperspeed.      | Python     |
 
 
 ---
