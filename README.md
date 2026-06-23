@@ -49,6 +49,6 @@ watching films, cooking, and going on long walks with my dog Barney.
 
 ---
 ### 📚 Currently Reading 📚
-- *The Story of the Stone* by Cao Xueqin
-- *Les Liaisons dangereuses* by Pierre Choderlos de Laclos
+- *Romance of the Three Kingdoms* by Luo Guanzhong
+- *Pride and Prejudice* by Jane Austen
 - *The Marriage of Cadmus and Harmony* by Roberto Calasso 
