@@ -13,7 +13,7 @@ Doing the Makers Bootcamp was an incredibly fun challenge, and it's given me far
 wrangle databases and build web applications. The Cloud Engineering Specialism meant getting to grips with the nuts and bolts
 of how to deliver safe and reliable cloud infrastructure, including how to convincingly say "it works in my container" 
 instead of "it works on my machine" when encountering an irreproducible error. After the bootcamp my next goal is to 
-do the ODIN Project to gain greater fluency in Javascript, and I'd quite like to build a web-based browser game.
+do the ODIN Project to gain greater fluency in Javascript, and I'm currently working on a speed-reading app.
 
 ---
 What I'm currently working with:
@@ -40,6 +40,7 @@ Looking forward to learning more about:
 | [Snake](https://github.com/joe-mcneil/snake_game) | Solo Learning Project - An (appropriately named) game I made when teaching myself Python before starting Makers. It has a persistent high score and runs in the Turtle module.                                                                                                                                                      | Python                                     |
 | [MakersBnB](https://github.com/joe-mcneil/MakersBnB) | Team Project - A capstone project our team worked on to create a demo website mirroring the functionality of a certain popular rental brokerage site. My team appointed me as project manager, and I'm really proud of what we built together.                                                                                      | Python, HTML, CSS, SQL                     |
 | [Makers Reliability Project](https://github.com/joe-mcneil/Hospital-Reliability-Project) | Team Project - Our Cloud Engineering Capstone challenged us to handle the traffic for a midsized chain of vet hospitals. This is the codebase I wrote to handle our NGINX reverse proxy server for caching and retries, with a JS sidecar to handle authenticated POST requests, and automated CI/CD pipeline using GitHub Actions. | AWS, YAML, GHA, nginx, JavaScript, Express |
+| [Speedy Reader (WIP)](https://github.com/joe-mcneil/speed-reading-app) | Solo Project -  This project was partly inspired by [a video](https://www.youtube.com/watch?v=NdKcDPBQ-Lw) which went viral on Twitter some months ago, and partly by my own experience being part of two book groups and sometimes needing to catch up the night before. It takes advantage of the fact that we can read much faster if our eyes don't have to scan across the page to easily double or triple speed by utilising a single focal point. This better for skimming than deep comprehension, but it's a fun thing to try and has been a fun project so far.                                                                                        | Python                           |
 
 ---
 
@@ -50,5 +51,5 @@ watching films, cooking, and going on long walks with my dog Barney.
 ---
 ### 📚 Currently Reading 📚
 - *Romance of the Three Kingdoms* by Luo Guanzhong
-- *Pride and Prejudice* by Jane Austen
+- *Bad Rabbi* by Eddy Portnoy 
 - *The Marriage of Cadmus and Harmony* by Roberto Calasso 
