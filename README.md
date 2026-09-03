@@ -50,6 +50,6 @@ watching films, cooking, and going on long walks with my dog Barney.
 
 ---
 ### 📚 Currently Reading 📚
-- *Romance of the Three Kingdoms* by Luo Guanzhong
-- *Bad Rabbi* by Eddy Portnoy 
+- *Strange Tales from a Chinese Studio* by Pu Songling
+- *The Secret History* by Donna Tartt 
 - *The Marriage of Cadmus and Harmony* by Roberto Calasso 
