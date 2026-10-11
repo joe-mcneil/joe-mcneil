@@ -50,6 +50,6 @@ watching films, cooking, and going on long walks with my dog Barney.
 
 ---
 ### 📚 Currently Reading 📚
-- *Strange Tales from a Chinese Studio* by Pu Songling
-- *The Secret History* by Donna Tartt 
+- *Romance of the Three Kingdoms* by Luo Guanzhong
+- *Rebecca* by Daphne du Maurier
 - *The Marriage of Cadmus and Harmony* by Roberto Calasso 
